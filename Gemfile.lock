@@ -10,6 +10,7 @@ GEM
     pry-byebug (3.6.0)
       byebug (~> 10.0)
       pry (~> 0.10)
+    rainbow (3.0.0)
     require_all (2.0.0)
 
 PLATFORMS
@@ -17,7 +18,8 @@ PLATFORMS
 
 DEPENDENCIES
   pry-byebug
+  rainbow
   require_all
 
 BUNDLED WITH
-   1.16.1
+   1.17.2
